@@ -7,5 +7,5 @@ Dataset Size I have used is about 240 Audio Clips. The Instructions to download 
 
 (https://github.com/orcasound/orcadata/wiki/Pod.Cast-data-archive) 
 
-![mel-spectrogram](https://github.com/rohankrgupta/Orca-call-Classifier-Machine-learning/blob/main/download.png)
+![mel-spectrogram](https://github.com/rohankrgupta/Orca-call-Classifier-Machine-learning/blob/main/mel-spectrogram.png)
 ![Killer Whale](https://github.com/rohankrgupta/Orca-call-Classifier-Machine-learning/blob/main/Killerwhales_jumping%20(1).png)
